@@ -43335,7 +43335,7 @@ _API__WEBPACK_IMPORTED_MODULE_3__["default"].login().then((authToken) => {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\Work\gamdom\full-stack-calculator\client\node_modules\webpack-dev-server\client\index.js?http://localhost:9000 */"./node_modules/webpack-dev-server/client/index.js?http://localhost:9000");
+__webpack_require__(/*! D:\Work\react-fullstack-calculator\client\node_modules\webpack-dev-server\client\index.js?http://localhost:9000 */"./node_modules/webpack-dev-server/client/index.js?http://localhost:9000");
 module.exports = __webpack_require__(/*! ./src/index.tsx */"./src/index.tsx");
 
 
