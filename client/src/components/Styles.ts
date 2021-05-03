@@ -2,7 +2,7 @@
 import styled,{createGlobalStyle} from 'styled-components';
 
 
-//Style components for everything rendered in calculator , howeve it can be improved more with theaming settings for example
+//Style components for everything rendered in calculator , however it can be improved more with theaming settings for example
 //seperate color settings for each button type , size , position etc.
 
 

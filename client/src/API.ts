@@ -33,7 +33,7 @@ const  API= {
   },  
 
   minus:async (token:string, opOne:string,opTwo:string):Promise<string>=>{
-    return API.calc(token,"plus",opOne,opTwo);
+    return API.calc(token,"minus",opOne,opTwo);
   },
 
   division:async (token:string, opOne:string,opTwo:string):Promise<string>=>{
